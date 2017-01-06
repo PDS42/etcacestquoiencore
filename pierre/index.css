@@ -15,15 +15,6 @@ p{
   text-align: center;
 }
 
-/*.left{
-left: 5px;
-top: 123px;
-position: absolute;
-background-color: rgb(98,52,117);
-height: 1000px;
-width: 300px;
-}*/
-
 .userInput{
   position: relative;
   margin: 0 auto;
