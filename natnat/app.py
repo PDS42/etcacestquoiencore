@@ -43,6 +43,6 @@ dict = {
     'end' : end
 }
 
-with open('data.txt', 'w', encoding='utf8') as outfile:
+with open('../data.json', 'w', encoding='utf8') as outfile:
     json.dump(dict, outfile, indent=4)
 outfile.close()

@@ -1,15 +1,15 @@
-{
-    "end": [
+var source = {
+    end: [
         "ET DEPUIS DES ANNEES",
-        "ET TOUT CE QUI S\u2019EN SUIT"
+        "ET TOUT CE QUI S'EN SUIT"
     ],
-    "entries": [
-        "DANS MON FIL D\u2019ACTUALITE",
-        "C EST QUOI A DROITE DE MON FB",
-        "C EST QUOI A DROITE DE FIL D\u2019ACTUALITE",
-        "VOUS VOUS FOUTEZ DE MA GUEULE ENCORE"
+    entries: [
+        "ET CA DANS MON FIL D\u2019ACTUALITE",
+        "ET CA C EST QUOI A DROITE DE MON FB",
+        "ET CA C EST QUOI A DROITE DE FIL D\u2019ACTUALITE",
+        "VOUS VOUS FOUTEZ DE MA GUEULE ENCORE DEBILE MENTAL"
     ],
-    "body": [
+    body: [
         "ET TOUTES LES MAGOUILLES ORDURIERES",
         "ET POUR ME POURRIR MA VIE EN TOUT POINT DE VU",
         "ET PAR LE BIAIS DE N IMPORTE QUOI",
